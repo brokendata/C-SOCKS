@@ -1,5 +1,4 @@
-# C-SOCKS
-C-SOCKS sELF Compliance Rating Scale
+# C-SOCKS sELF Compliance Rating Scale
 
 Christmas-SOCKS Requirements - CSS v20.17
 
